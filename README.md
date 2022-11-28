@@ -1,7 +1,5 @@
 # lab-OOP00
-testๆ hello world
 
-Teera rewtawee
+ธีร ริ้วทวี
 653450288-5
-
-bruh
+teera.r@kkumail.com
